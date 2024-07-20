@@ -1,4 +1,4 @@
-### The Spark Foundation Data Science & Business Analytics Internship
+### The Spark Foundation Data Science & Business Analytics Internship @GRIP #JULY24BATCH
 
 #### TASK 03 - EXPLORATORY DATA ANALYSIS - RETAIL USING TABLEAU
 
@@ -11,8 +11,8 @@
     <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&srtle=for-the-badge" height="25" alt="youtube logo" />
   </a>  
 </div> 
-**Overview**
-===========
+
+## **Overview**
 
 This project uses the popular data visualization tool, Tableau, to create an interactive dashboard using the Superstore dataset. The dashboard provides insights into average sales, average profit, and average discount, as well as top-performing product categories and segments. Additionally, the dashboard includes a geographical map showcasing average profit per state in the US and a donut chart highlighting product categories and their total profit.You can also check my youtube link attached to this readme file for my dashboard explanation.
 
