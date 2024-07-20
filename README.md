@@ -99,6 +99,6 @@ This project was made possible by the SampleSuperstore dataset, which is publicl
 
 **Author Information**
 ----------------------
-#### ARYA S
+#### ARYA S : www.linkedin.com/in/aryadataanalyst
 
 **Thank You!**
