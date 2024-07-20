@@ -3,6 +3,7 @@
 #### TASK 03 - EXPLORATORY DATA ANALYSIS - RETAIL USING TABLEAU
 
 ##### Dataset : Sample Superstore dataset
+#### Visualization tool : Tableau Publeau
 ##### Tableau Dashboard : https://public.tableau.com/views/SampleSuperstoredashboard_17214093979930/SuperstoreDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### 
 <div align ="right">
