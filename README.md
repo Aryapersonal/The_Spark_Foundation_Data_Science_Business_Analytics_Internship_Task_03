@@ -74,7 +74,7 @@ The dashboard includes the following visualizations and insights:
 2. **Top 5 Product Categories by Total Sales**: The bar chart highlights the top-performing product categories based on total sales, enabling users to identify trends and patterns.The most profermed  product is phones & chairs with a total sales of $330k and $328k respectively.
 
 
-3. **Top 5 Product Categories and Segments by Average Sales**: The horizontal bar chart provides a visual representation of the top-performing product categories in various segments, allowing users to analyze correlations between categories and segments.There are three segments namely corporate,consumer & House office in which the product catgory copiers & machines have almost similar average sales rate in House office & corporate.
+3. **Top 5 Product Categories and Segments by Average Sales**: The horizontal bar chart provides a visual representation of the top-performing product categories in various segments, allowing users to analyze correlations between categories and segments.There are three segments namely corporate,consumer & House office in which the product category copiers & machines have almost similar average sales rate in House office & corporate.
 
 
 4. **Geographical Map: Average Profit by State**: The interactive map enables users to explore average profit rate by state, revealing geographic trends and correlations.The vemont is the state with most average profit rate of around $204.The least is Florida
@@ -92,7 +92,7 @@ The dashboard includes the following visualizations and insights:
 
 **Conclusion**
 
-In this project, I explored the SampleSuperstore dataset using Tableau  and extracted several valuable insights. The dataset provides a rich source of data for analyzing sales and customer behavior, and this project demonstrates how to load, explore,visualize and analyze the dataset using Tableeau Public for creating interative Dashboard.
+In this project, I explored the SampleSuperstore dataset using Tableau  and extracted several valuable insights. The dataset provides a rich source of data for analyzing sales and customer behavior, and this project demonstrates how to load, explore,visualize and analyze the dataset using Tableau Public for creating interative Dashboard.
 
 **Acknowledgments**
 
